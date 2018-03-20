@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo 'hola don e pito';
+            echo 'hola don pepito';
+            echo 'hola don jose';
+            echo 'paso usted por mi casa';
         ?>
     </body>
 </html>
