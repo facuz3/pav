@@ -13,7 +13,6 @@ and open the template in the editor.
         <?php
             echo 'hola don pepito';
             echo 'hola don jose';
-            echo 'paso usted por mi casa';
         ?>
     </body>
 </html>
