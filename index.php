@@ -13,9 +13,7 @@ and open the template in the editor.
         <?php
             echo 'adios don pepito';
             echo 'hola don jose';
-<<<<<<< HEAD
             echo 'arigato.';
-=======
         ?>
     </body>
 </html>
