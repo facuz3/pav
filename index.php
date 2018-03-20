@@ -11,9 +11,15 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+<<<<<<< HEAD
             echo 'adios don pepito';
             echo 'hola don jose';
             echo 'aripr        ro.';
+=======
+            echo 'adis don pepito';
+            echo 'hola d        on jos';
+            echo 'ricolaaa  aaa ';
+>>>>>>> rama4
         ?>
     </body>
 </html>
